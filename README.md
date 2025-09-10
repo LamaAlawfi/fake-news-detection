@@ -50,7 +50,6 @@ This project compares a **fine-tuned transformer model (DistilBERT)** against a 
 - Lama Al-Alawfi  
 - Shatha Mahrous  
 
-**Supervised by:** Dr. Ahmed Elhyek  
 
 ---
 
